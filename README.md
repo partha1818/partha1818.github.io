@@ -1,4 +1,4 @@
-# Windows 11 AMSI Research Using CLR Profiling 2026
+# Windows 11 AMSI Bypass Using CLR Profiling 2026
 
 ## Description
 
